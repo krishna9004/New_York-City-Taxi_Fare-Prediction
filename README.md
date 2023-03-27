@@ -27,3 +27,10 @@ Machine Learning Modeling
 6-descion tree
 7-Bagging mode
 8-Boosting model
+**Packages and Tools Required:**
+Numpy
+Pandas 
+Matplotlib
+Seaborn
+Jupyter Notebook
+Scikit Learn
